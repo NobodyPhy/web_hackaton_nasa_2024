@@ -1,0 +1,9 @@
+*.db
+*.py[cod]
+__pycache__/
+assets/external/
+RXpython/__pycache__/
+.git
+.gitignore
+README.md
+*.pyc
